@@ -7,6 +7,9 @@
 Using one month historical transactional data, can we partition the dataset into cluster of users such that each cluster have relative spending habits.
 
 ## Question 2- Data Visualization Chart Explanation: 
+
+[Tableau Public Link](https://public.tableau.com/app/profile/jacky1833/viz/Mox4/Dashboard1?publish=yes)
+
 The dashboard is split into three different regions. The top portion(1) of the dashboard provides quick statistics regading our userbase.
 Average percent salary used is derived from the total spending of this month over the salary. Note, some users have over 100% (i.e. they are using their savings/credits to fund their spending), and
 users with 0 salary are excluded from the calculation. The middle portion(2) of the dashboard gives a more granular of our user statistics.
