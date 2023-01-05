@@ -30,6 +30,7 @@ Our main objective is the find similar group of users.
 
 To begin, we combined the two datasets that were given into one. Since, we are not trying to analysis individual transactions, but rather
 the overall user behavior, we grouped the transaction dataset by customerId & transaction categories, resulting the dataset below.
+![](https://github.com/Jleung1996/Mox/blob/main/picture/table.png)
 
 Since our dataset is not well labeled(i.e. there is no clear y values), we used an unsupervised learning model. The model we pick was K-Mean Clustering because it is 
 generally used when you have a set of features that you want to find groups that share similar charateristics. In addition, its relative simple implement.
@@ -37,8 +38,7 @@ To begin, we had to find out appropriate N-Cluster. To do this, we deployed the 
 There isn't an solid evaluation metric for most clustering analysis. However, we did plot a scatterplot regarding salary and transational total to see if
 the data was correctly partition(See Below)
 
-
-
+![](https://github.com/Jleung1996/Mox/blob/main/picture/total.png)
 
 
 ## Verdict
