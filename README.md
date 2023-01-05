@@ -10,7 +10,9 @@ Using one month historical transactional data, can we partition the dataset into
 
 [Tableau Public Link](https://public.tableau.com/app/profile/jacky1833/viz/Mox4/Dashboard1?publish=yes)
 
-The dashboard is split into three different regions. The top portion(1) of the dashboard provides quick statistics regading our userbase.
+The dashboard is split into three different regions. 
+![](https://github.com/Jleung1996/Mox/blob/main/picture/box.png)
+The top portion(1) of the dashboard provides quick statistics regading our userbase.
 Average percent salary used is derived from the total spending of this month over the salary. Note, some users have over 100% (i.e. they are using their savings/credits to fund their spending), and
 users with 0 salary are excluded from the calculation. The middle portion(2) of the dashboard gives a more granular of our user statistics.
 The graph shows us that majority of our users are in the age of 20-40 with an even distribution of gender. The bottom portion (3) gives statistics
